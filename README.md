@@ -13,3 +13,5 @@ Below you can see an estimate of the value of all the services on your phone onl
 **Discuss with your table and post at least three technologies on learn**
 
 ![value of services](https://pbs.twimg.com/media/CR-2WqrUAAAmUBk.jpg)
+
+<a href='https://learn.co/lessons/pc-mobileSpotlight-appValue' data-visibility='hidden'>View this lesson on Learn.co</a>

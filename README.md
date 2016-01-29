@@ -14,4 +14,4 @@ Below you can see an estimate of the value of all the services on your phone onl
 
 ![value of services](https://pbs.twimg.com/media/CR-2WqrUAAAmUBk.jpg)
 
-<a href='https://learn.co/lessons/pc-mobileSpotlight-appValue' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-mobileSpotlight-appValue' title='Imagine the year is 1981.'>Imagine the year is 1981.</a> on Learn.co and start learning to code for free.</p>
